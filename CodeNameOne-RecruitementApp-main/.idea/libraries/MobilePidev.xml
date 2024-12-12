@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MobilePidev">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MobilePidev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
